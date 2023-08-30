@@ -1,2 +1,1 @@
-# MiprimerRepositorio
-este es una prueba 
+este proyecto es una prueba 
